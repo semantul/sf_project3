@@ -1,0 +1,5 @@
+[user]
+	name = Mantula Sergey
+	email = semantul@gmail.com
+[alias]
+	history = log --graph
